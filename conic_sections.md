@@ -21,10 +21,10 @@ $$ Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0 $$
 ### Steps to Identify Conic Sections
 
 1. **Check the Bxy term:**
-   - If $ B = 0 $, the conic section does not have a rotation.
+   - If $B = 0$, the conic section does not have a rotation.
 
 2. **Check coefficients $ A $ and $ C $:**
-   - Circle: $ A = C $ and $ B = 0 $
+   - Circle: $A = C$ and $ B = 0 $
    - Ellipse: $ A \neq C $, $ A $ and $ C $ have the same sign, and $ B = 0 $
    - Parabola: Either $ A = 0 $ or $ C = 0 $, but not both
    - Hyperbola: $ A $ and $ C $ have opposite signs, and $ B = 0 $
