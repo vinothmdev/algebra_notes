@@ -16,7 +16,7 @@ Identifying conic sections involves analyzing their equations and understanding 
 
 ### General Equation
 The general form of a conic section is:
-$$ Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0 $$
+$$Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$$
 
 ### Steps to Identify Conic Sections
 

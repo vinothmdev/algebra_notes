@@ -1,5 +1,3 @@
-# Counting - Permutations and Combinations
-
 Permutations and combinations are fundamental concepts in combinatorics, a branch of mathematics dealing with counting, arrangement, and combination of objects. Here’s a detailed explanation of both concepts:
 
 ### Permutations
@@ -40,8 +38,8 @@ $$C(5, 3) = \frac{5!}{3!(5 - 3)!} = \frac{5!}{3!2!} = \frac{5 \times 4 \times 3 
    - Combinations do not consider the order (e.g., ABC is the same as BAC).
 
 2. **Formulas**:
-   - Permutations: $ P(n, r) = \frac{n!}{(n - r)!} $
-   - Combinations: $ C(n, r) = \frac{n!}{r!(n - r)!} $
+   - Permutations: $P(n, r) = \frac{n!}{(n - r)!}$
+   - Combinations: $C(n, r) = \frac{n!}{r!(n - r)!}$
 
 3. **Applications**:
    - Permutations are used when the order matters, such as in arranging books on a shelf or seating arrangements.
@@ -65,9 +63,9 @@ $$C(5, 3) = \frac{5!}{3!(5 - 3)!} = \frac{5!}{3!2!} = \frac{5 \times 4 \times 3 
 ### Practice Problems
 
 1. **Permutations**: How many ways can 4 students be seated in a row from a group of 10?
-   - $ P(10, 4) = \frac{10!}{(10 - 4)!} = \frac{10!}{6!} = 5040 $
+   - $P(10, 4) = \frac{10!}{(10 - 4)!} = \frac{10!}{6!} = 5040$
 
 2. **Combinations**: How many ways can a committee of 4 be chosen from 10 students?
-   - $ C(10, 4) = \frac{10!}{4!6!} = 210 $
+   - $C(10, 4) = \frac{10!}{4!6!} = 210$
 
 By understanding the definitions, formulas, and differences between permutations and combinations, you can apply these concepts to a wide range of problems in mathematics and real-life scenarios.
