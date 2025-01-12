@@ -134,7 +134,7 @@ This structural understanding explains why ionic solids have high melting points
 
 ## Representing alloys using particulate models
 
-#### **Metallic Bonds and Properties**
+### **Metallic Bonds and Properties**
 1. **Metallic Bonds**:
    - Metals form bonds by contributing their **valence electrons** to a communal "sea of electrons."
    - This "sea of electrons" allows for properties like:
@@ -147,7 +147,7 @@ This structural understanding explains why ionic solids have high melting points
 
 ---
 
-#### **What Are Alloys?**
+### **What Are Alloys?**
 1. **Definition**:
    - Alloys are mixtures of metals (and sometimes nonmetals) that retain metallic properties.
    - Example: **Steel**, **Brass**, **Stainless Steel**.
@@ -159,7 +159,7 @@ This structural understanding explains why ionic solids have high melting points
 
 ---
 
-#### **Types of Alloys**
+### **Types of Alloys**
 1. **Interstitial Alloys**:
    - **Composition**:
      - A smaller atom (e.g., carbon) fits into the spaces (interstices) between larger metal atoms (e.g., iron).
@@ -182,7 +182,7 @@ This structural understanding explains why ionic solids have high melting points
 
 ---
 
-#### **Advantages of Alloying**
+### **Advantages of Alloying**
 1. **Strength**:
    - Example: Steel is stronger than pure iron because carbon atoms restrict the movement of iron atoms.
    
@@ -524,33 +524,33 @@ The **Valence Shell Electron Pair Repulsion (VSEPR)** model is a powerful tool f
 
 ### **Examples**
 
-#### **1. Beryllium Chloride (\(\text{BeCl}_2\))**
+#### **1. Beryllium Chloride ($\text{BeCl}_2$)**
 - **Step 1**: Draw the Lewis structure.
-  - Beryllium (\(2\) valence electrons) forms two single bonds with two chlorines (\(7\) valence electrons each).
-  - Chlorines satisfy the octet rule with lone pairs; beryllium has \(4\) electrons (does not follow the octet rule).
+  - Beryllium ($2$ valence electrons) forms two single bonds with two chlorines ($7$ valence electrons each).
+  - Chlorines satisfy the octet rule with lone pairs; beryllium has $4$ electrons (does not follow the octet rule).
 - **Step 2**: Count electron clouds.
-  - Two single bonds = \(2\) electron clouds.
+  - Two single bonds = $2$ electron clouds.
 - **Step 3**: Determine electron geometry.
   - **Linear** (two clouds repel to maximize distance).
 - **Step 4**: Lone pairs.
   - None on the central atom.
 - **Step 5**: Molecular geometry.
-  - **Linear** shape with a \(180^\circ\) bond angle.
+  - **Linear** shape with a $180^\circ$ bond angle.
 
 ---
 
-#### **2. Carbon Dioxide (\(\text{CO}_2\))**
+#### **2. Carbon Dioxide ($\text{CO}_2$)**
 - **Step 1**: Draw the Lewis structure.
-  - Carbon (\(4\) valence electrons) forms two double bonds with two oxygens (\(6\) valence electrons each).
+  - Carbon ($4$ valence electrons) forms two double bonds with two oxygens ($6$ valence electrons each).
   - Each oxygen satisfies the octet rule; carbon is also satisfied.
 - **Step 2**: Count electron clouds.
-  - Two double bonds = \(2\) electron clouds (each double bond counts as one region).
+  - Two double bonds = $2$ electron clouds (each double bond counts as one region).
 - **Step 3**: Determine electron geometry.
   - **Linear** (two clouds repel to maximize distance).
 - **Step 4**: Lone pairs.
   - None on the central atom; lone pairs are on the terminal oxygens.
 - **Step 5**: Molecular geometry.
-  - **Linear** shape with a \(180^\circ\) bond angle.
+  - **Linear** shape with a $180^\circ$ bond angle.
 
 ---
 
@@ -560,6 +560,4 @@ The **Valence Shell Electron Pair Repulsion (VSEPR)** model is a powerful tool f
 - Lone pairs compress bond angles due to stronger repulsion compared to bonding pairs.
 
 By applying these steps systematically, you can predict the shape and bond angles for a wide variety of molecules and ions.
-
----
 
