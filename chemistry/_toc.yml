@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Topics
+    maxdepth: 2
+    chapters:
+    - file: pages/1_atomic-structure-and-properties
+    - file: pages/2_Molecular-and-ionic-compound-structure-and-properties
