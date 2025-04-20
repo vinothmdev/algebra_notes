@@ -15,5 +15,17 @@ The sum or resultant of two vectors is found by placing the origin of the second
 
 The order in which two vectors $S$ and $T$ are added does not affect the sum.
 
+$I_a : m (n A) = n (m A) = (m n) A,$
 
+$I_b : (A + B) + C = A + (B + C),$
+
+$II : A + B = B + A,$
+
+$III_a : (m + n) A = m A + n A,$
+
+$III_b : m (A + B) = m A + m B,$
+
+$III_c : - (A + B) = - A - B.$
+
+>>>  The laws which govern addition, subtraction, and scalar multiplication of vectors are identical with those governing these operations in ordinary scalar algebra.
 
